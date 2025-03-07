@@ -12,3 +12,18 @@ C:\Users\rapha\Documents\Faculdade\Prog. de comp\Atividade1 - Console\obj\Debug\
 C:\Users\rapha\Documents\Faculdade\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.pdb
 C:\Users\rapha\Documents\Faculdade\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.genruntimeconfig.cache
 C:\Users\rapha\Documents\Faculdade\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\ref\Atividade1 - Console.dll
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\bin\Debug\net8.0\Atividade1 - Console.exe
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\bin\Debug\net8.0\Atividade1 - Console.deps.json
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\bin\Debug\net8.0\Atividade1 - Console.runtimeconfig.json
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\bin\Debug\net8.0\Atividade1 - Console.dll
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\bin\Debug\net8.0\Atividade1 - Console.pdb
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.AssemblyInfoInputs.cache
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.AssemblyInfo.cs
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.sourcelink.json
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.dll
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\refint\Atividade1 - Console.dll
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.pdb
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\Atividade1 - Console.genruntimeconfig.cache
+C:\Users\rapha\OneDrive\Documentos\Faculdade\8° Semestre\Prog. de comp\Atividade1 - Console\obj\Debug\net8.0\ref\Atividade1 - Console.dll
